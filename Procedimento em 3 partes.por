@@ -1,5 +1,3 @@
-
-
 programa {
 
   real n1,n2,media
@@ -15,8 +13,6 @@ programa {
   }
 
   funcao calc2 (){
-
-    
 
     media = (n1+n2)/2
 
